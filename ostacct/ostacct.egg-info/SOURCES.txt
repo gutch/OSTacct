@@ -1,0 +1,133 @@
+MANIFEST.in
+README.txt
+setup.cfg
+setup.py
+migration/__init__.py
+migration/versions/__init__.py
+ostacct/__init__.py
+ostacct.egg-info/PKG-INFO
+ostacct.egg-info/SOURCES.txt
+ostacct.egg-info/dependency_links.txt
+ostacct.egg-info/entry_points.txt
+ostacct.egg-info/not-zip-safe
+ostacct.egg-info/paster_plugins.txt
+ostacct.egg-info/requires.txt
+ostacct.egg-info/top_level.txt
+ostacct/config/__init__.py
+ostacct/config/app_cfg.py
+ostacct/config/environment.py
+ostacct/config/middleware.py
+ostacct/controllers/__init__.py
+ostacct/controllers/error.py
+ostacct/controllers/root.py
+ostacct/controllers/secure.py
+ostacct/controllers/template.py
+ostacct/i18n/ru/LC_MESSAGES/ostacct.po
+ostacct/lib/__init__.py
+ostacct/lib/app_globals.py
+ostacct/lib/base.py
+ostacct/lib/helpers.py
+ostacct/model/__init__.py
+ostacct/model/__init__old.py
+ostacct/model/auth.py
+ostacct/model/authold.py
+ostacct/model/schoolmodel.py
+ostacct/public/2011 Local Finance Workshops.pptx
+ostacct/public/2011BOEGASB54.pptx
+ostacct/public/Director_of_Schools.doc
+ostacct/public/IND COST RATES 2011-2012.pdf
+ostacct/public/NCLB Updates-2011Spring Fiscal Workshops-revised.pptx
+ostacct/public/PIRS Read-Only Access Form.doc
+ostacct/public/SampleAFR.pdf
+ostacct/public/SampleSubAFR.pdf
+ostacct/public/TCRSPlanUpdate2011.pdf
+ostacct/public/favicon.ico
+ostacct/public/graphs.docx
+ostacct/public/installWxPyETn3.4.exe
+ostacct/public/schacctman.pdf
+ostacct/public/accessforms/DOE_GASB_45.pdf
+ostacct/public/accessforms/Director_of_Schools.doc
+ostacct/public/accessforms/District_User.doc
+ostacct/public/accessforms/FACTS Update Access Form.doc
+ostacct/public/accessforms/FACTS View Only Access Form.doc
+ostacct/public/accessforms/PIRS Read-Only Access Form.doc
+ostacct/public/accessforms/PIRS User Access Form.doc
+ostacct/public/accessforms/form - Chairperson of BOE.doc
+ostacct/public/accessforms/form - County Clerk,City or SSD Recorder.doc
+ostacct/public/accessforms/form - County Trustee,City Treasurer.doc
+ostacct/public/accessforms/form - Director of Schools.doc
+ostacct/public/accessforms/form - District Inquiry.doc
+ostacct/public/accessforms/form - District User.doc
+ostacct/public/css/admin.css
+ostacct/public/css/calstyles.css
+ostacct/public/css/style.css
+ostacct/public/css/styleold.css
+ostacct/public/eventdoc/ApplicationforSSA2011-2012.docx/ApplicationforSSA2011-2012.docx
+ostacct/public/eventdoc/EducationJobsFundquarterlyjobsform.xls/EducationJobsFundquarterlyjobsform.xls
+ostacct/public/eventdoc/FTTTCompetitiveProjects-9-6-11.xls/FTTTCompetitiveProjects-9-6-11.xls
+ostacct/public/eventdoc/FTTTScopesofWorkJobsandVendorPayments.XLS/FTTTScopesofWorkJobsandVendorPayments.XLS
+ostacct/public/eventdoc/extended_learning_manual.pdf/extended_learning_manual.pdf
+ostacct/public/images/add.png
+ostacct/public/images/contentbg.png
+ostacct/public/images/delete.png
+ostacct/public/images/error.png
+ostacct/public/images/header_inner2.png
+ostacct/public/images/headerbg.png
+ostacct/public/images/info.png
+ostacct/public/images/inputbg.png
+ostacct/public/images/loginbg.png
+ostacct/public/images/loginbottombg.png
+ostacct/public/images/loginheader-left.png
+ostacct/public/images/loginheader-right.png
+ostacct/public/images/menu-item-actibg-first.png
+ostacct/public/images/menu-item-actibg.png
+ostacct/public/images/menu-item-border.png
+ostacct/public/images/menubg.png
+ostacct/public/images/ok.png
+ostacct/public/images/pagebg.png
+ostacct/public/images/pencil.png
+ostacct/public/images/star.png
+ostacct/public/images/stay young 1.jpg
+ostacct/public/images/strype2.png
+ostacct/public/images/traffic4.jpg
+ostacct/public/images/under_the_hood_blue.png
+ostacct/public/images/warning.png
+ostacct/public/pictures/jack/JK436.jpg
+ostacct/public/pictures/jack/JK439.jpg
+ostacct/public/pictures/jack/JK474.jpg
+ostacct/public/pictures/jack/JK479.jpg
+ostacct/public/pictures/jack/JK497.jpg
+ostacct/public/pictures/jack/JK501.jpg
+ostacct/public/pictures/jack/JK516.jpg
+ostacct/templates/SamAFR.mak
+ostacct/templates/WxPyETn.mak
+ostacct/templates/__init__.py
+ostacct/templates/__init__.pyc
+ostacct/templates/about.mak
+ostacct/templates/accessit.mak
+ostacct/templates/authentication.mak
+ostacct/templates/data.mak
+ostacct/templates/environ.mak
+ostacct/templates/error.mak
+ostacct/templates/eventcal.mak
+ostacct/templates/eventedit.mak
+ostacct/templates/eventlist.mak
+ostacct/templates/header.mak
+ostacct/templates/index.mak
+ostacct/templates/login.mak
+ostacct/templates/manuals.mak
+ostacct/templates/master.mak
+ostacct/templates/movie.mak
+ostacct/templates/ostacct.mak
+ostacct/templates/schools.mak
+ostacct/templates/simple_mako.mak
+ostacct/templates/workshops.mak
+ostacct/tests/__init__.py
+ostacct/tests/functional/__init__.py
+ostacct/tests/functional/test_authentication.py
+ostacct/tests/functional/test_root.py
+ostacct/tests/models/__init__.py
+ostacct/tests/models/test_auth.py
+ostacct/websetup/__init__.py
+ostacct/websetup/bootstrap.py
+ostacct/websetup/schema.py

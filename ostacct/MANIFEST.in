@@ -1,0 +1,4 @@
+recursive-include ostacct/public *
+include ostacct/public/favicon.ico
+recursive-include ostacct/i18n *
+recursive-include ostacct/templates *
